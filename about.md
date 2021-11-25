@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I've been writing code since I was 8 and haven't stopped.
 
+This blog is about the latest suff I've been learning.  Likely to be about Ruby, Javascript or machine learning.
