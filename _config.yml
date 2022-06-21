@@ -11,8 +11,8 @@ description: Blogging about programming, Ai, agile
 github_username: bradg
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: web@bradgarland.com
+twitter_username: bradg
 
 # Set this to true to get LaTeX math equation support
 use_math:
